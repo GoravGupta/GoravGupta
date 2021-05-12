@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GoravGupta
 - 👀 I’m interested in Automation Framewrok design
-- 🌱 I’m currently learning Advanced Selenium with Java, C#, Pythin, DS.
-- 💞️ I’m looking to collaborate on Python and DS projects
+- 🌱 I’m currently learning Advanced Selenium with Java, API
 - 📫 Email ID:  @gourav.silicon@gmail.com ; LinkedIn :  https://www.linkedin.com/in/gorav-gupta/
 
 <!---
