@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GoravGupta
-- 👀 I’m interested in Automation Framewrok design
-- 🌱 I’m currently learning Advanced Selenium with Java, API testing, PlayWright, WebdriverIO
-- 📫 Email ID:  @gourav.silicon@gmail.com ; LinkedIn :  https://www.linkedin.com/in/gorav-gupta/
+- 👀 I’m interested in Automation Framework design
+- 🌱 I’m currently learning Advanced Selenium with Java, API testing, PlayWright
+- 📫 LinkedIn :  https://www.linkedin.com/in/gorav-gupta/
 
 <!---
 GoravGupta/GoravGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
